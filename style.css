@@ -1,0 +1,33 @@
+body {
+   background-color: blue;
+   font-family: Times;
+   color: red;
+   font-size: 24px;
+   line-height: 1.6;
+
+}
+
+h1 {
+  color: rgb(128, 148, 33);
+  font-family: arial;
+}
+
+
+
+.img-face {
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+.card {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
